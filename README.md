@@ -5,3 +5,5 @@ I'm a Software Engineer with 15+ years industry experience working on projects w
 - 👋 Hi, I’m @eschgr
 - 👀 I’m interested in computer graphics, artificial intelligence, large scale serve backend and more. I'm interested in all forms of software and making things that you find useful.
 - 🌱 I’m currently learning artifical intelligence. I'm looking to understand how to use AI to drive more impact on people's lives in a positive way. I am looking to turn AI into a copilot which can help improve your work capabilities and act as a partner to collaborate in your engineering processes.
+
+To reach out to me, please check me out on LinkedIn: https://www.linkedin.com/in/gregory-esch-7197359/
