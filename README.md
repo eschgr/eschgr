@@ -1,7 +1,5 @@
 Welcome to my Github repository. This is just a smattering of fun projects that I've likely gotten halfway complete.
 
--Who am I
-
 I'm a Software Engineer with 15+ years industry experience working on projects which impact your life. This repository was started after I was laid off from my position and I began to feel bored, so I started programming for fun. Right now, there's not much here, but I hope to have that change quickly and make this group of projects grow.
 
 - 👋 Hi, I’m @eschgr
