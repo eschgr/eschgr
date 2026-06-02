@@ -1,9 +1,15 @@
-Welcome to my Github repository. This is just a smattering of fun projects that I've likely gotten halfway complete.
+# Hi, I'm Greg 👋
 
-I'm a Software Engineer with 15+ years industry experience working on projects which impact your life. This repository was started after I was laid off from my position and I began to feel bored, so I started programming for fun. Right now, there's not much here, but I hope to have that change quickly and make this group of projects grow.
+I'm a software engineer with 15+ years of industry experience building things that impact people's lives. By day that work follows requirements and deadlines; here, it follows curiosity. This is a collection of explorations where I chase ideas just because they're interesting.
 
-- 👋 Hi, I’m @eschgr
-- 👀 I’m interested in computer graphics, artificial intelligence, large scale serve backend and more. I'm interested in all forms of software and making things that you find useful.
-- 🌱 I’m currently learning artifical intelligence. I'm looking to understand how to use AI to drive more impact on people's lives in a positive way. I am looking to turn AI into a copilot which can help improve your work capabilities and act as a partner to collaborate in your engineering processes.
+Most of what's here is half-built by design. These are the projects I pick up to learn something new, test an idea, or just see if I can. "Finished" isn't really the point; the building is.
 
-To reach out to me, please check me out on LinkedIn: https://www.linkedin.com/in/gregory-esch-7197359/
+### What I'm into
+Computer graphics, artificial intelligence, large-scale backend systems—and honestly, just about any form of software that makes something useful.
+
+### What I'm exploring now
+AI, specifically. I'm fascinated by how to turn it into a genuine copilot: something that augments people's work and collaborates as a real partner in the engineering process, rather than just a tool you reach for.
+
+---
+
+Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/gregory-esch-7197359/).
